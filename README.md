@@ -44,7 +44,9 @@ Este proyecto es un software en Java que permite la conversion de unas divisas e
 ## Capturas de Pantalla
 
 ![Menu de opciones](./assets/menu.png)
+
 ![Ingreso del valor de la divisa](./assets/currency.png)
+
 ![Conversion de la divisa ingresada](./assets/final_currency.png)
 
 

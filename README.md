@@ -25,7 +25,7 @@ Este proyecto es un software en Java que permite la conversion de unas divisas e
 2. Navega al directorio del proyecto:
 
 ```
-   cd encrypt
+   cd challenge-currency-converter
 ```
 
 3. Abre el proyecto en el IDE de preferencia.
